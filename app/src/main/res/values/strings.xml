@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">contain_a_certain_time</string>
+    <string name="start_time_label">開始時刻</string>
+    <string name="end_time_label">終了時刻</string>
+    <string name="check">Check!</string>
+    <string name="result">Result</string>
+    <string name="hint_input_end_time">Input End Time</string>
+    <string name="hint_input_start_time">Input Start Time</string>
+    <string name="target_time_label">調査する時刻</string>
+    <string name="input_target_time">Input Target Time</string>
+    <string name="input_is_not_number">InputIsNotNumber!</string>
+    <string name="input_is_contain">Contain!</string>
+    <string name="input_is_not_contain">NotContain!</string>
+    <string name="input_out_of_range">"OutOfRange "</string>
+    <string name="menu_name">メニュー</string>
+    <string name="history_name">履歴</string>
+    <string name="history_file_name">historyFile.txt</string>
+    <string name="max_num">24</string>
+    <string name="definition_error">definition error</string>
+    <string name="history_display_name">History</string>
+    <string name="return_button_label">Return</string>
+    <string name="history_start_time_label">開始時刻</string>
+    <string name="history_end_time_label">終了時刻</string>
+    <string name="history_target_time_label">調査した時刻</string>
+    <string name="history_result_label">結果</string>
+</resources>
